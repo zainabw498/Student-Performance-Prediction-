@@ -1,0 +1,17 @@
+{
+  "feature_names": [
+    "Study_Hours",
+    "Attendance_Rate",
+    "Previous_Grades",
+    "Participation_Score",
+    "Parental_Involvement"
+  ],
+  "coefficients": {
+    "Study_Hours": 1.4732334212200975,
+    "Attendance_Rate": 1.3334904398046403,
+    "Previous_Grades": 1.338589626030284,
+    "Participation_Score": 1.4042611612627407,
+    "Parental_Involvement": 0.7910602176635254
+  },
+  "accuracy": 93.18
+}
